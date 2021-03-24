@@ -1,0 +1,37 @@
+
+
+    div#division1{
+       
+        float: right;
+       width: 300px;
+       height: 500px;
+       background-color: rgb(0, 255, 149); 
+       border-radius: 1em;
+    }
+
+    div#aside{
+       
+       float: left;
+       width: 640px;
+       height: 200px;
+       background-color: rgb(36, 32, 245); 
+       border-radius: 1em;
+    }
+
+    div#section{
+       
+        float: left;
+    margin-top: 10px;
+       width: 640px;
+       height: 580px;
+       background-color: purple; 
+       border-radius: 1em;
+    }
+
+
+    .articulo{
+        width: 90%;
+        height: 20%;
+        background-color: rgba(167, 22, 22, 0);
+
+    }
