@@ -7,8 +7,12 @@ div#container{
         margin-top: 20px;
        width: 960px;
        height: 900px;
-       background-color: red; 
+       background-color: rgb(123, 162, 235); 
        border-radius: 1em;
     }
 
     
+.boton{
+
+    padding: 0px;
+}
