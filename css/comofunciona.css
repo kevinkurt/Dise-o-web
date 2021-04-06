@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 8px;
+}
+div#container{
+        margin: auto;
+        margin-top: 20px;
+       width: 960px;
+       height: 900px;
+       
+       border-radius: 1em;
+    }
+
+    
+.boton{
+
+    padding: 0px;
+}
+
+.texto hr{
+    background-color: #186985;
+}
+
+.step-number {
+    position: absolute;
+    opacity: 1;
+    color:#186985 ;
+    left: -20px;
+    font-size: 40px;
+    line-height: 10px;
+    
+}
+.step-number h3,p{
+
+    margin-right: 10ex;
+}
+
+.texto{
+
+    margin: auto;
+}
