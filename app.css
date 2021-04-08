@@ -6,8 +6,8 @@ div#container{
         margin: auto;
         margin-top: 20px;
        width: 960px;
-       height: 900px;
-       background-color: rgb(123, 162, 235); 
+       height: 1900px;
+       background-color: rgb(252, 252, 253);  
        border-radius: 1em;
     }
 
@@ -16,3 +16,4 @@ div#container{
 
     padding: 0px;
 }
+
