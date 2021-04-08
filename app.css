@@ -1,19 +1,15 @@
-*{
-    margin: 0px;
-    padding: 8px;
+* {
+  margin: 0px;
+  padding: 8px;
 }
-div#container{
-        margin: auto;
-        margin-top: 20px;
-       width: 960px;
-       height: 1900px;
-       background-color: rgb(252, 252, 253);  
-       border-radius: 1em;
-    }
-
-    
-.boton{
-
-    padding: 0px;
+div#container {
+  margin: auto;
+  margin-top: 20px;
+  width: 960px;
+  height: 1900px;
+  border-radius: 1em;
 }
 
+.boton {
+  padding: 0px;
+}
