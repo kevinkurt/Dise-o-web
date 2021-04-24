@@ -1,3 +1,17 @@
+* {
+    margin: 0px;
+    padding: 8px;
+  }
+
+.container {
+    margin: auto;
+    margin-top: 20px;
+    width: 860px;
+    height: 8900px;
+    border-radius: 1em;
+  }
+
+
 .theme--mercado .jobs-home-soho--mercado-theme {
     background-color: var(--color-background-brand-accent-4);
 }
@@ -41,3 +55,4 @@ padding: 0px;
 
 body {
     font-family: -apple-system,system-ui,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Fira Sans,Ubuntu,Oxygen,Oxygen Sans,Cantarell,Droid Sans,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Lucida Grande,Helvetica,Arial,sans-serif;
+    }
