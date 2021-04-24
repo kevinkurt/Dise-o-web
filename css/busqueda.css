@@ -1,14 +1,11 @@
 * {
     margin: 0px;
-    padding: 8px;
   }
 
 .container {
     margin: auto;
-    margin-top: 20px;
     width: 860px;
     height: 8900px;
-    border-radius: 1em;
   }
 
 
