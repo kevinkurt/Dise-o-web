@@ -1,18 +1,29 @@
 #main {
-  border-bottom: 2rem solid #fff;
+    border-bottom: 2rem solid #fff;
 }
 
 #main {
-  display: block;
-  -webkit-flex: 1 0 auto;
-  -ms-flex: 1 0 auto;
-  -webkit-box-flex: 1;
-  flex: 1 0 auto;
+    display: block;
+    -webkit-flex: 1 0 auto;
+    -ms-flex: 1 0 auto;
+    -webkit-box-flex: 1;
+    flex: 1 0 auto;
 }
 
 * {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 
+.container,
+.container-lg,
+.container-md,
+.container-sm,
+.container-xl {
+    max-width: 1000px;
+}
+
+.column {
+    padding-left: 9px;
+}
